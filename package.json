@@ -1,0 +1,29 @@
+{
+  "name": "int-to-rgb",
+  "version": "1.0.0",
+  "description": "covert numbers to rgb objects",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcwhittemore/int-to-rgb.git"
+  },
+  "keywords": [
+    "rgb",
+    "colors"
+  ],
+  "author": "Matthew Chase Whittemore <mcwhittemore@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcwhittemore/int-to-rgb/issues"
+  },
+  "homepage": "https://github.com/mcwhittemore/int-to-rgb#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
